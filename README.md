@@ -7,6 +7,7 @@
 - Tailwind
 - Svelte
 - PostgreSQL
+- GraphQL
 
 <h2>📝 Editors</h2>
 
