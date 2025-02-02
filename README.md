@@ -1,14 +1,14 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is James Alvin Pendon (Johnsiras)
+Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is James Alvin Pendon (Aka pinkmin)
 ======================================================================================================================================================
 
-Web developer, astronvim and remix user
+I am a frontend addict and a neovim user
 ---------------------------------------
 
-I started as a newbie in Javascript, html and css because I'm really interested in making websites. I watch yt vids about making websites, the frameworks, etc. Remix was my first and liked framework in react.js.
+Nothing much for the introduction. I am just a silly, lazy and a dum dum developer :>
 
-* 🌍  I'm based in Philippines, Cavite
+* 🌍  I live in Philippines, Cavite
 * ✉️  You can contact me at [jamespendon388@gmail.com](mailto:jamespendon388@gmail.com)
-* 🚀  I'm currently working on [Man themes - Mantine made themes](http://manthemes.vercel.com)
+* 🚀  I'm currently working on [☕ The adachi cafe - Portfolio](http://pinkmin.netlify.com)
 
 <a href="https://www.github.com/johnsiras" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/johnsiras?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
